@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 My research interests lie broadly in reinforcement learning & interpretability. Specifically, I'm interested in providing embodied agents with common sense priors to better develop world models. For interpretability, I aim to make machine learning systems more interpretable for everyday users to inform better decision making. I've also worked on projects related to privacy interdependence & community based content moderation.
 
-Aside from conducting research, you can find me and my <a href="https://i.imgur.com/qnphL9l.jpg">dog</a> at your local matcha & tea shop. 
+Aside from conducting research, you can find me and my <a href="https://imgur.com/a/i9Ivp6w">dog</a> at your local matcha & tea shop. 
