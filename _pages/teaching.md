@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 Courses I've been a TA for:<br>
-TA - COGS 17 (Neurobiology of Cognition)<br>
-TA - COGS 107B (Systems Neuroscience)
+COGS 17 (Neurobiology of Cognition)<br>
+COGS 107B (Systems Neuroscience)
 
 I helped develop [DSC 266R (Human-Centered AI)](https://hxi.ucsd.edu/course/dsc266r/) and TA for the course every Winter!
