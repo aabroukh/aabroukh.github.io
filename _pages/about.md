@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>CSE Building Room 2236</p>
+    <p>CSE Building Room 2238</p>
     <p>3235 Voigt Dr</p>
     <p>La Jolla, CA 92093</p>
 
@@ -19,6 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research interests lie broadly in reinforcement learning & interpretability. Specifically, I'm interested in providing embodied agents with common sense priors to better develop world models. For interpretability, I aim to make machine learning systems more interpretable for everyday users to inform better decision making. I've also worked on projects related to privacy interdependence & community based content moderation.
+I’m a PhD student in Computer Science & Engineering at UC San Diego advised by Nadir Weibel. My research interests lie at the intersection of human-computer interaction, machine learning, & reinforcement learning. I’m interested in leveraging social signal as rewards to improve machine learning systems using varying modalities. I’m also interested in XAI and the personalization of conversational agents. When I’m not working on research you can find me walking my dog around grad housing or at the local tea shop (Paru is my favorite).
+
+If you are interested in my work, feel free to reach out! I’m also happy to talk or collaborate on new projects.
 
 Aside from conducting research, you can find me and my <a href="https://imgur.com/a/i9Ivp6w">dog</a> at your local matcha & tea shop. 
