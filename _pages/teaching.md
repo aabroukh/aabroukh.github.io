@@ -3,10 +3,12 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 5
+nav: true
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Courses I've TAed in the past:
+TA - COGS 17 (Neurobiology of Cognition)
+TA - COGS 107B (Systems Neuroscience)
 
-Organize your courses by years, topics, or universities, however you like!
+I helped develop DSC 266R (Human-Centered AI) and TA for the course every Winter!
