@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 3
 ---
 
-Courses I've TAed in the past:
-TA - COGS 17 (Neurobiology of Cognition)
+Courses I've been a TA for:<br>
+TA - COGS 17 (Neurobiology of Cognition)<br>
 TA - COGS 107B (Systems Neuroscience)
 
-I helped develop DSC 266R (Human-Centered AI) and TA for the course every Winter!
+I helped develop [DSC 266R (Human-Centered AI)](https://hxi.ucsd.edu/course/dsc266r/) and TA for the course every Winter!
