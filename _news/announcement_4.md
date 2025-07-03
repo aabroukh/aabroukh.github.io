@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our [work on autonomous vehicle explanations](https://arxiv.org/abs/2409.05731) was accepted by CHI 2025!
+Our [work on autonomous vehicle explanations](https://arxiv.org/abs/2409.05731) was accepted at CHI 2025!

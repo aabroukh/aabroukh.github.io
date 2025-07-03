@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on community content moderation was accepted by [Queer in AI at NeurIPS 2024](https://www.queerinai.com/neurips-2024).
+Our work on community content moderation was accepted at [Queer in AI at NeurIPS 2024](https://www.queerinai.com/neurips-2024).
