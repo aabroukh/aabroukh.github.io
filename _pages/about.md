@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego advised by Nadir Weibel. My research interests lie at the intersection of machine learning, human-computer interaction, & reinforcement learning. Specifically, I work on finetuning conversational audio system and the application of preference learning frameworks to varying domains and modalities.
+I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego advised by Nadir Weibel. My research interests lie at the intersection of reinforcement learning, social signals, and mental health. Specifically, I work on finetuning conversational audio system and the application of preference learning frameworks to the audio domain.
 
 If you are interested in my work, feel free to reach out! I’m always happy to talk or collaborate on new projects.
 
