@@ -23,4 +23,4 @@ I’m a 4th year PhD student in Computer Science & Engineering at UC San Diego. 
 
 If you are interested in my work, feel free to reach out. I’m always happy to talk or collaborate on new projects!
 
-Outsie the lab you can find me and my <a href="https://imgur.com/a/i9Ivp6w">dog</a> at your local matcha & tea shop. My favorite is <a href="https://paruteabar.com/">Paru</a>.
+Outside the lab you can find me and my <a href="https://imgur.com/a/i9Ivp6w">dog</a> at your local matcha & tea shop. My favorite is <a href="https://paruteabar.com/">Paru</a>.
